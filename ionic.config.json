@@ -1,0 +1,7 @@
+{
+  "name": "ControlHorarios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
